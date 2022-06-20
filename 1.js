@@ -8,3 +8,8 @@ function even(num){
 
     even(10)
     even(15)
+
+
+    function even(num){
+
+        if(num%2==0){}}
