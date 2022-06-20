@@ -18,3 +18,18 @@ function even(num){
         function multi(num){
 
             if(num%2==0){}}
+    function odd(num){
+
+        if(num%2!=0){
+            console.log("odd number");
+        }else{
+            console.log("even number");
+        }}
+    
+        even(10)
+        even(15)
+
+
+        function odd(num){
+
+            if(num%2!=0){
