@@ -13,3 +13,8 @@ function even(num){
     function even(num){
 
         if(num%2==0){}}
+
+
+        function multi(num){
+
+            if(num%2==0){}}
