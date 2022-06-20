@@ -39,3 +39,8 @@ function even(num){
 
                    console.log( num*num)}
                    squre(2)
+            function cube(num){
+
+              console.log(num*num*num);}
+
+              cube(3)
