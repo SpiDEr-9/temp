@@ -32,4 +32,10 @@ function even(num){
 
         function odd(num){
 
-            if(num%2!=0){
+            if(num%2!=0){}}
+
+            function cube(num){
+
+              console.log(num*num*num);}
+
+              cube(3)
