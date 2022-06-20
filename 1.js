@@ -20,3 +20,8 @@ function even(num){
     
         even(10)
         even(15)
+
+
+        function odd(num){
+
+            if(num%2!=0){
